@@ -646,7 +646,7 @@ export function getAdalDefaultFields(): FormField[] {
       y: 88.4,
       width: 29.0,
       height: 3.2,
-      placeholder: 'Enter comments / suggestions for improvement...',
+      placeholder: 'Enter comments / suggestions...',
     },
   ];
 }
